@@ -1,0 +1,1 @@
+= Table.RenameColumns( MT_TABLE_Table,Table.ToRows(MAPPING))
