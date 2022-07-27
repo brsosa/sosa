@@ -1,1 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T11:44:20.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="19.0.3" etag="_RBO9ufH93oxLdz4BSp5" type="github"><diagram id="EaQB6LkyUjNR2LQ-vsy1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-27T12:36:05.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-PrtXus9JgqKUg53zpml" version="19.0.3" type="github">
+  <diagram id="EaQB6LkyUjNR2LQ-vsy1" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-1" value="SUCURSAL COJUTEPEQUE" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="80" y="115" width="840" height="755" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="9Kwl-bp5W5Ed4bl_G25z-4" target="9Kwl-bp5W5Ed4bl_G25z-28" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="9Kwl-bp5W5Ed4bl_G25z-4" target="9Kwl-bp5W5Ed4bl_G25z-36" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="9Kwl-bp5W5Ed4bl_G25z-1" source="9Kwl-bp5W5Ed4bl_G25z-4" target="9Kwl-bp5W5Ed4bl_G25z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Raúl Vaquero&lt;br&gt;&lt;b&gt;Gerente&lt;/b&gt;&lt;br&gt;4 años 4 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-12" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="9Kwl-bp5W5Ed4bl_G25z-4" target="9Kwl-bp5W5Ed4bl_G25z-13" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Rosimar Galeas&lt;br&gt;&lt;b&gt;Caja&lt;/b&gt;&lt;br&gt;1 año 10 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-13">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="9Kwl-bp5W5Ed4bl_G25z-5" target="9Kwl-bp5W5Ed4bl_G25z-17" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="David Ernesto Rodriguez&lt;br&gt;&lt;b&gt;Vendedor&lt;/b&gt;&lt;br&gt;3 años 4 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-17">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="9Kwl-bp5W5Ed4bl_G25z-1" source="9Kwl-bp5W5Ed4bl_G25z-4" target="9Kwl-bp5W5Ed4bl_G25z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="530" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-20" source="9Kwl-bp5W5Ed4bl_G25z-13" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Ana Graciela Perez&lt;br&gt;&lt;b&gt;Despacho&lt;/b&gt;&lt;br&gt;1 año 3 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-20">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-24" source="9Kwl-bp5W5Ed4bl_G25z-17" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Erick Iván Perez&lt;br&gt;&lt;b&gt;Vendedor&lt;/b&gt;&lt;br&gt;2 años 7 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-24">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-26" source="9Kwl-bp5W5Ed4bl_G25z-24" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Mauricio Miguel Alférez&lt;br&gt;&lt;b&gt;Vendedor&lt;/b&gt;&lt;br&gt;1 año 7 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ever Alberto Hernández&lt;br&gt;&lt;b&gt;Auxiliar TA&lt;/b&gt;&lt;br&gt;1 año" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-28">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-30" source="9Kwl-bp5W5Ed4bl_G25z-28" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Delmy Aracely Montano&lt;br&gt;Auxiliar&lt;br&gt;1 año 8 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-30">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-34" source="9Kwl-bp5W5Ed4bl_G25z-30" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Ada Verónica Henríquez&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Auxiliar Servicios Generales&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;1 año 9 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=10;" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Santiago Martínez Flores&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;15 años 9 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-36">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="220" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-5" value="Gabriel Lara&lt;br&gt;&lt;b&gt;Sub Gerente&lt;/b&gt;&lt;br&gt;4 meses" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry x="330" y="125" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-38" source="9Kwl-bp5W5Ed4bl_G25z-36" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="José David Flores&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;1 año 10 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-38">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-40" source="9Kwl-bp5W5Ed4bl_G25z-38" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Charlie Rogelio Flores&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;10 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-40">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-42" source="9Kwl-bp5W5Ed4bl_G25z-40" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="475" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Eduardo Alexander Patiño&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;1 año 1 mes" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-42">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="460" width="120" height="55" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-43" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-44" source="9Kwl-bp5W5Ed4bl_G25z-42" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="555" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Cesar Enrique Cruz&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;3 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-44">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="540" width="120" height="55" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9Kwl-bp5W5Ed4bl_G25z-45" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="9Kwl-bp5W5Ed4bl_G25z-46" source="9Kwl-bp5W5Ed4bl_G25z-44" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="José Maximino Díaz&lt;br&gt;&lt;b&gt;Motociclista&lt;/b&gt;&lt;br&gt;3 meses" treeRoot="1" id="9Kwl-bp5W5Ed4bl_G25z-46">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9Kwl-bp5W5Ed4bl_G25z-1">
+            <mxGeometry x="680" y="620" width="120" height="55" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
